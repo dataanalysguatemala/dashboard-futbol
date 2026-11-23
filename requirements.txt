@@ -1,7 +1,8 @@
 streamlit
-pandas
+pandas 
 numpy
-mplsoccer
-matplotlib
-plotly
 requests
+matplotlib
+mplsoccer
+scikit-learn
+statsbombpy
