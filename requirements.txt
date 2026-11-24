@@ -1,8 +1,8 @@
-streamlit
-pandas
-numpy
-requests
-matplotlib
-mplsoccer
-scikit-learn
-statsbombpy
+streamlit>=1.35.0
+pandas>=2.1.0
+numpy>=1.26.0
+requests>=2.31.0
+matplotlib>=3.8.0
+mplsoccer>=1.2.4
+scikit-learn>=1.4.0
+statsbombpy>=1.13.0
